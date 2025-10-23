@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jade.github.io//sitemap.xml
+Sitemap: https://jewelaui-cyber.github.io//sitemap.xml
